@@ -1,3 +1,6 @@
 /.agents/
 /.codex/
 /dataset/
+/.idea/
+/.venv/
+__pycache__/
